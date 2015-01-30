@@ -4,6 +4,10 @@ Description
 
 This is a sample implementation of [RecyclerView][1].
 
+Screenshot
+-------
+
+![RecyclerViewSample screenshot](art/screenshot.png)
 
 License
 -------
